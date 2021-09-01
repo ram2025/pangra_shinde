@@ -1,0 +1,33 @@
+body{
+    background-color: crimson;
+    border: orange;
+    border-radius: 20px;
+    border-style: groove;
+}
+
+#page{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    display: inline;
+}
+.hor{
+    height: 165px;
+    top: 0px;
+    display: inline;
+}
+.ver{
+    width: 180px;
+    display: inline;
+}
+#hed{
+    background-color: blanchedalmond;
+    display: inline;
+    border: black;
+    border-radius: 10px;
+    padding: 10px;
+    position: sticky;
+    top: 0px;
+    left: 35vw;
+
+}
